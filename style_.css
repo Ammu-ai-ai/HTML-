@@ -1,0 +1,46 @@
+* {
+    margin: 0;
+    padding: 0;
+   
+}
+.A{
+    
+    border: 2px  white;
+    margin: 3px;
+    background-color: rgb(4, 97, 46) ;
+    
+    color: white;
+}
+.A1{
+    
+    border: 3px  white;
+    margin: 3px;
+    background-color: rgb(4, 97, 46) ;
+    
+    color: white;
+}
+.A2{
+    
+    border: 1px solid white;
+    margin: 3px;
+    background-color: rgb(4, 97, 46)  ;
+    
+    color: white;
+    text-align: center;
+}
+.A3{
+    
+    border: 1px  black;
+    margin: 1px;
+    background-color:rgb(4, 97, 46)  ;
+    
+    color: white;
+}
+.A4{
+    
+    border: 3px  black;
+    margin: 3px;
+    color: white;
+    background-color: rgb(4, 97, 46) ;
+    
+}
